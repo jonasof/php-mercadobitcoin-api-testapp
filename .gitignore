@@ -1,0 +1,5 @@
+nbproject/private/
+config.php
+current_nonce
+/vendor/
+/composer.lock
